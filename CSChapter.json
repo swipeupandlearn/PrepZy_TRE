@@ -1,0 +1,16 @@
+{
+  "chapters": [
+    {
+      "name": "Computer System and Organization",
+      "url": "https://example.com/computer-system-organization"
+    },
+    {
+      "name": "Software Concepts",
+      "url": "https://example.com/software-concepts"
+    },
+    {
+      "name": "Data Representation and Number Systems",
+      "url": "https://example.com/data-representation-number-systems"
+    }
+  ]
+}
