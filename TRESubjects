@@ -1,0 +1,16 @@
+{
+  "Subjects": [
+    {
+      "name": "Computer",
+      "url": "https://example.com/computer-system-organization"
+    },
+    {
+      "name": "English",
+      "url": "https://example.com/software-concepts"
+    },
+    {
+      "name": "English",
+      "url": "https://example.com/data-representation-number-systems"
+    }
+  ]
+}
