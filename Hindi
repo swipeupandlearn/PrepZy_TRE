@@ -1,0 +1,16 @@
+{
+  "Hindi": [
+    {
+      "name": "Grammar",
+      "url": "https://example.com/computer-system-organization"
+    },
+    {
+      "name": "Hindi Topic 2",
+      "url": "https://example.com/software-concepts"
+    },
+    {
+      "name": "Hindi Topic 2",
+      "url": "https://example.com/data-representation-number-systems"
+    }
+  ]
+}
