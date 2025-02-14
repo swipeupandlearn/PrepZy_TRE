@@ -6,11 +6,11 @@
     },
     {
       "name": "Software Concepts",
-      "url": "https://example.com/software-concepts"
+      "url": "https://raw.githubusercontent.com/swipeupandlearn/PrepZy_TRE/refs/heads/main/CompSysAndOrg.json"
     },
     {
       "name": "Data Representation and Number Systems",
-      "url": "https://example.com/data-representation-number-systems"
+      "url": "https://raw.githubusercontent.com/swipeupandlearn/PrepZy_TRE/refs/heads/main/CompSysAndOrg.json"
     }
   ]
 }
