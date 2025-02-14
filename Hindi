@@ -2,15 +2,15 @@
   "Hindi": [
     {
       "name": "Grammar",
-      "url": "https://example.com/computer-system-organization"
+      "url": "https://raw.githubusercontent.com/swipeupandlearn/PrepZy_TRE/refs/heads/main/CompSysAndOrg.json"
     },
     {
       "name": "Hindi Topic 2",
-      "url": "https://example.com/software-concepts"
+      "url": "https://raw.githubusercontent.com/swipeupandlearn/PrepZy_TRE/refs/heads/main/CompSysAndOrg.json"
     },
     {
-      "name": "Hindi Topic 2",
-      "url": "https://example.com/data-representation-number-systems"
+      "name": "Hindi Topic 3",
+      "url": "https://raw.githubusercontent.com/swipeupandlearn/PrepZy_TRE/refs/heads/main/CompSysAndOrg.json"
     }
   ]
 }
