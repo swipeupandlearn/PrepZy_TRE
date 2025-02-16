@@ -1,196 +1,233 @@
-[{
-    "topics": [
+[
+  {
+    topic: "1. Introduction to Computer System",
+    subtopics: [
       {
-        "topic": "1. Introduction to Computer System",
-        "subtopics": [
-          {
-            "subtopic": "1.1 What is a Computer?",
-            "content": "**Computers** are used in many fields, including engineering, medicine, commerce, and research, as well as in everyday devices and computations [1]. The word computer comes from the word 'compute,' meaning to calculate [1]. Originally, a computer was considered a super-fast calculator [1]. Today, computers also accept, sort, select, move, and compare various types of information, performing arithmetic and logical operations [1]. The information given to a computer is called data [1]. Input data is the information presented to the computer [1]. After processing, the computer presents output data [2]. A computer program is a set of instructions for the computer to perform various operations [2]. Data processing is the conversion of input data to output with the help of a computer program [2]. A computer is a fast and accurate data processing system that accepts, stores, and processes data, and produces results based on instructions [2]. **Hardware** and **software** are terms often associated with computers [2]."
-          },
-           {
-            "subtopic": "1.2 Evolution of Computers",
-            "content": "Computers have evolved dramatically [3]. First-generation computers used **vacuum tube technology**, punched cards for input, and machine language for programming [4]. These computers were bulky, emitted heat, and had limited commercial use [4]. Charles Babbage is known as the 'father of modern digital computer' for inventing the analytical engine [5]. Early computers include the Mark I, the Atanasoff-Berry Computer (ABC), the ENIAC, the EDVAC, and the UNIVAC I [5, 6]. The **ENIAC** was the first all-electronic computer [5]. The **EDVAC** was the first machine to use the stored program concept [6]. Second-generation computers used **transistors** [7]. The machine language was replaced by assembly language and high-level languages like COBOL and FORTRAN were developed [7]. The **stored program concept** allowed instructions to be held in memory and quickly modified or replaced [7]. Third-generation computers used **integrated circuits (ICs)**, which increased computation speed and reduced size and power consumption [7, 8]. Operating systems were designed to run multiple programs at once, known as multiprogramming [8]. Fourth-generation computers used **Very Large Scale Integration (VLSI)** and saw the introduction of **microcomputers** and **personal computers** [8]. Networking became common, with the Internet linking computers worldwide [9]. Fifth-generation computers are characterized by **Artificial Intelligence (AI)**, like expert systems, and the ability to accept spoken words as input [9]."
-          },
-          {
-            "subtopic": "1.3 Classification of Computers",
-            "content": "Computers are classified into **analog computers**, **digital computers**, and **hybrid computers** [10]. Analog computers recognize data as a continuous measurement of a physical property [10]. Digital computers are high-speed programmable devices that process data through mathematical calculations, comparisons, and sorting [10]. They accept input and produce output as discrete signals representing high or low voltage states [10]. Digital computers are further classified as general-purpose or special-purpose [10]. They are also classified based on memory access and size [10]: Microcomputers (or personal computers) have the smallest memory and are used in daily applications [11]. Notebook and laptop computers are portable and battery-operated [11]. Handheld computers are smaller than notebook computers and used for field data collection [12]. Hybrid computers combine the speed of analog computers with the accuracy of digital computers, used in specialized applications [12]. Minicomputers are more powerful than microcomputers, used in process control systems [12]. Mainframe computers are very large and process data at high speeds, used in large organizations [12]. Supercomputers are the fastest, most powerful, and most expensive computers, using parallel processing for complex tasks [12]."
-          },
-            {
-            "subtopic": "1.4 Applications of Computers",
-            "content": "Computers are used in many areas [13]: Scientific, engineering, and research for experiments, calculations, weather forecasting, and complex applications [13]. Business for record keeping, budgets, reports, inventory, payroll, and database management [13]. Medicine for monitoring patient data, medical equipment, and medical research [13]. Information technology, including television, satellite communication, the Internet, and networks [13]. Education, where students develop logical thinking and problem-solving skills, and access digital learning materials [13]. Games and entertainment, including computer games, movies, and sports [13]."
-          },
-             {
-            "subtopic": "1.5 Advantages and Disadvantages of Computers",
-               "content": "Computers have several advantages [14]: **Speed** - they can process millions of instructions per second [14]. **Accuracy** - they perform computations without errors [15]. **Efficiency** - they perform repeated tasks with the same efficiency [15]. **Storage Capacity** - they can store large amounts of data [15]. **Versatility** - they can perform complex tasks as well as non-numerical operations [15]. However, computers also have limitations [16]: They cannot think on their own and can only do what they are programmed to do [16]. They do not learn from previous experience and must go through all intermediate steps [16]."
-          },
-           {
-            "subtopic":"1.6 Similarities and Differences between Computer and Human",
-            "content":"Similarities between humans and computers [17]: Computers have input devices like keyboards to get information, similar to human senses [17]. Computers store information like human memory [17]. Computers retrieve information as required, like humans recollect [17]. Computers express through screens and printouts, like human expression [17]. Computers can analyze information and draw conclusions with software [18]. The computer's CPU is like the human brain [18].  Differences between humans and computers [18]: Computers don't understand emotions or meaning beyond words, unlike humans [18]. Humans learn many things unknowingly, while computers learn only knowingly [18]. Computers have to be taught to do everything, while humans learn independently [18]."
-          },
-          {
-            "subtopic":"1.7 A Computer System",
-             "content":"A system is a group of integrated parts designed to achieve a common objective [19]. A computer is made of integrated elements [19]."
-          },
-          {
-            "subtopic":"1.8 Components of a Computer System",
-             "content":"The basic parts of a computer system are the input unit, the central processing unit (CPU), and the output unit [20]. The input unit feeds data and programs to the computer, connecting the external environment with the computer system, and converts data into a computer-acceptable format [20]. Input devices include keyboards, floppy disks, mice, microphones, light pens, and joysticks [20]. The CPU is the brain of the computer, consisting of the control unit, the arithmetic logic unit (ALU), and the primary storage unit [21]. The control unit controls operations of the computer system, gets instructions from programs, and directs other units [21]. The ALU executes instructions and performs calculations [21]. The primary storage unit (main memory) stores data, instructions, and intermediate results [21]. The output unit gives results to the outside world, accepting results from the computer, converting them into a human-readable form, using devices such as printers and display screens [21]."
-          }
-        ]
+        subtopic: "1.1 What is a Computer?",
+        content:
+          "**Computers** are used in many fields, including engineering, medicine, commerce, and research, as well as in everyday devices and computations [1]. The word computer comes from the word 'compute,' meaning to calculate [1]. Originally, a computer was considered a super-fast calculator [1]. Today, computers also accept, sort, select, move, and compare various types of information, performing arithmetic and logical operations [1]. The information given to a computer is called data [1]. Input data is the information presented to the computer [1]. After processing, the computer presents output data [2]. A computer program is a set of instructions for the computer to perform various operations [2]. Data processing is the conversion of input data to output with the help of a computer program [2]. A computer is a fast and accurate data processing system that accepts, stores, and processes data, and produces results based on instructions [2]. **Hardware** and **software** are terms often associated with computers [2].",
       },
-       {
-        "topic": "2. Input and Output Devices",
-         "subtopics":[
-           {
-             "subtopic":"2.1 Introduction",
-             "content":"Input/output (I/O) interfaces convert data into machine-readable form and output into human-readable form [22]. On-line data input transfers data directly to the computer, while off-line data input does not transfer data immediately [22]."
-           },
-           {
-              "subtopic":"2.2 Input Devices",
-               "content":"Common input devices include: Punch cards store data using holes interpreted by a card reader [22, 23]. Keyboards are similar to typewriter keyboards and are used to enter letters, numbers, symbols, and special function keys [24]. A display screen or monitor shows the entered data and processing results [24]. A mouse is a pointing device used to control cursor movement [25]. Scanners directly enter text and images into the computer [26]. Optical scanners use light to read characters, pictures, and graphics [26]. Optical Mark Readers (OMR) read pre-specified marks made by pencils or pens [26]. Optical Character Readers (OCR) read alphabets, characters, and numbers printed on paper [26]. Bar code readers read data coded in the form of light or dark lines, commonly used in retail [27]. Magnetic Ink Character Recognition (MICR) devices are used in banking to read characters encoded with magnetic ink [27]. Voice recognition systems allow users to talk to the computer via a microphone [27]."
-           },
-             {
-              "subtopic":"2.3 Output Devices",
-               "content":"Output devices enable the computer to communicate with the outside world [28]. Printers produce output on paper [28]. Impact printers use a hammer to strike a character against an inked ribbon and include dot matrix printers, line printers, and daisy wheel printers [28, 29]. Non-impact printers do not use a hammer and include ink jet printers and laser printers [30, 31]. Plotters output graphs and drawings and include flatbed and drum plotters [31, 32]. Video Display Terminals (VDT) display data and include dumb, smart, and intelligent terminals [33]. Computer Output Microfilm (COM) records computer output as microscopic filmed images [34]."
-          }
-         ]
-       },
-       {
-         "topic": "3. Primary and Secondary Storage Devices",
-         "subtopics":[
-           {
-             "subtopic":"3.1 Introduction",
-               "content":"A storage unit stores data and instructions to be processed [35]. Primary memory (internal memory) is a part of the CPU that holds program instructions, input data, and intermediate results [35]. Secondary storage (external memory) is used for permanent, long-term storage of programs and data [35]. Storage units are graded according to speed of operation, efficiency, cost, and amount of data stored [35]."
-           },
-           {
-             "subtopic":"3.2 Primary Storage",
-             "content":"Primary storage includes RAM (Random Access Memory) and ROM (Read-Only Memory) [36, 37]. RAM is volatile and loses data when power is turned off [36]. ROM is non-volatile and stores data permanently [37]. Primary memory is an integral part of the computer system and is made up of small locations, each with a unique address and a fixed number of bits called word length [38]. Cache memory is a small but fast memory between the CPU and the main memory, storing frequently needed data to increase efficiency [39]. Registers are special memory units used for temporary storage of information and efficient movement between computer units [39]."
-           },
-            {
-             "subtopic":"3.3 Secondary Storage Devices",
-               "content":"Secondary storage devices are used to store large volumes of data, with lower cost but slower access time compared to primary memory [40]. Secondary storage is also called auxiliary memory, is non-volatile, and stores copies of data and programs [40]. Data on secondary storage can be accessed sequentially or directly [41]. Sequential access devices, like magnetic tape, store data in a linear fashion and are read and written sequentially [41, 42]. Magnetic tapes are inexpensive and have high data density, but are sensitive to environmental conditions [43, 44]. Direct access storage devices, like magnetic disks, allow access to any data location without having to follow the sequence in which it was stored [44]. Magnetic disks can be hard disks or floppy disks, storing data on a magnetic coating divided into tracks [44, 45]. Optical cards and optical tapes are also available [46]. Floppy disks can be single-sided or double-sided [47]. Winchester disks are permanently enclosed in a sealed container [48]."
-           }
-         ]
-       },
-       {
-        "topic": "4. Number Systems",
-        "subtopics":[
-           {
-            "subtopic":"4.1 Introduction",
-             "content":"Computers store data internally in a format not easily readable by humans [49]. Input and output interfaces are required to convert data into a readable format [49]. Computers store numbers, letters, and other special characters in coded form [49]. Number systems are of two types: non-positional and positional [49]."
-           },
-           {
-             "subtopic":"4.2 Non-positional Number System",
-             "content":"Non-positional number systems use symbols to represent numbers and the value of the number is determined by the number of symbols [49]. Arithmetic operations are difficult to perform in these systems [49]."
-           },
-           {
-             "subtopic":"4.3 Positional Number System",
-             "content":"Positional number systems use digits, where the value of each digit depends on the digit itself, its position in the number, and the base of the number system [50]. The base is the total number of digits available in the system [50]. In the decimal system, the base is 10 [50]. The binary system has a base of 2, using only 0 and 1 [51]. The octal system has a base of 8, using digits 0 to 7 [52]. The hexadecimal system has a base of 16, using digits 0 to 9 and letters A to F [52]. Computers store data in binary form [52]. Octal and hexadecimal number systems are often used as shortcuts for binary [52]."
-           },
-           {
-            "subtopic":"4.4 Conversion",
-            "content":"Numbers can be converted between different bases [53]. To convert from another base to decimal, determine the positional value of each digit, multiply the column values by the digits, and sum the products [53]. To convert from decimal to another base, divide the decimal number by the value of the new base, record the remainder as the rightmost digit, and repeat the process until the quotient becomes zero [54]."
-           }
-        ]
-       },
-        {
-        "topic": "5. Boolean Algebra and Logic Circuits",
-        "subtopics":[
-          {
-             "subtopic":"5.1 Introduction",
-              "content":"Boolean algebra deals with the binary number system and is useful in designing logic circuits used in processors [55]. Logic gates are the building blocks of all logic circuits in a computer [55]."
-           },
-          {
-             "subtopic":"5.2 Boolean Algebra",
-              "content":"Boolean algebra uses binary variables (0 and 1) and logical operators such as OR (+), AND (.), and NOT (-) [56].  The NOT operator takes precedence over AND and OR, and AND takes precedence over OR [56]. The principle of duality exists, which relates AND and OR, and 0 and 1 [57]. A Boolean function is an expression formed with binary variables, operators, parentheses, and equal signs [57]."
-          },
-          {
-            "subtopic":"5.4 Logic Gates",
-            "content":"Logic gates implement Boolean functions. The NOT gate inverts an input [58]. The AND gate outputs 1 only when all inputs are 1 [58]. The OR gate outputs 1 if any input is 1 [58]. The NAND gate is an AND gate followed by a NOT gate [58]. A NOR gate is an OR gate followed by a NOT gate [58]."
-          },
-            {
-             "subtopic":"5.5 Logic Circuits",
-              "content":"Logic circuits are made of logic gates and implement Boolean expressions [59]."
-          },
-          {
-             "subtopic":"5.6 Design of Combinational Circuits",
-             "content":"Design of a combinational circuit involves stating the problem, determining input and output variables, assigning symbols, creating a truth table, obtaining simplified Boolean expressions, and drawing a logic circuit diagram [59]."
-          }
-        ]
-       },
-       {
-        "topic": "6. Computer Software, Programming Languages and Program Development",
-        "subtopics":[
-          {
-            "subtopic":"6.1 Introduction",
-             "content":"A computer program is a set of instructions that tells the computer what to do [60]. The program controls the processing of the computer [60]."
-           },
-            {
-             "subtopic":"6.2 Classification of Software",
-             "content":"Software is a set of programs, procedures, and associated documentation that describes what the program does and how to use it [61]. Software is mainly classified into application software and system software [61]. Application software carries out a specific application, like payroll or financial accounting [61]. System software controls the working of the computer system and other software, allowing the user to communicate with the system [62]. Utility software consists of tools used in program development or for performing limited tasks [62]. Firmware is software available on ROM chips [63]."
-            },
-            {
-              "subtopic":"6.3 Programming Languages",
-               "content":"A programming language is a means of communication between the user and the computer [64]. All programming languages are designed to perform basic instructions and operations [65]. Types of programming languages include machine language, assembly language, and high-level language [66]. Machine language uses binary code (0s and 1s) and is directly understood by the computer, but is difficult to program in [66]. Assembly language uses mnemonics to write program code [66]. High-level languages use English-like words and statements and are easier to learn, including FORTRAN, BASIC, COBOL, RPG, PASCAL, C, and LISP [67-69]. BASIC is beginner friendly [67]. COBOL is designed for business applications [68]. RPG generates output reports [68]. PASCAL is used for structured programming [69]. C is used for system programming [69]. LISP is used for non-numeric applications [69]."
-            },
-            {
-             "subtopic":"6.4 Program Development Process",
-              "content":"The program development process includes the following stages: Problem Definition: Understanding and formally defining the problem [70]. Program Design: Designing the program using tools like algorithms and flowcharts [70, 71]. Algorithms are a step-by-step description of the procedure, and flowcharts are pictorial representations of algorithms [71, 72]. Coding: Writing instructions in a computer language [73]. Debugging: Detecting and correcting errors in the program [74]. Testing: Testing the program on a number of suitable test cases [75]. Documentation: Making the program easy to understand, modify, and maintain [75]. Maintenance: Updating and correcting the program [76]. Other techniques that are useful in designing of the program are modular programming and top-down design [73, 77]."
-          }
-        ]
-       },
-       {
-         "topic":"7. Introduction to Operating Systems",
-         "subtopics":[
-            {
-              "subtopic":"7.1 Introduction",
-              "content":"The operating system (OS) acts as an interface between humans and the computer [78]. The OS ensures the smooth and efficient operation of a computer [78]."
-            },
-           {
-             "subtopic":"7.2 Definition",
-             "content":"An operating system is an integrated set of programs that manage the resources and operations of a computer system [78]. It acts as an interface between humans and the computer, and ensures smooth and efficient operation of the computer [78]. Functions of an operating system include: processor management, memory management, input/output management, file management, data security and integrity, assigning priority to jobs, and interpreting commands and detecting errors [79, 80]. A resident program is a control program of the OS that resides in the main memory [80]. Transient programs reside on the disk and are accessed when needed [80]. Throughput is the total amount of work performed by the OS over a period of time [80]."
-           },
-           {
-             "subtopic":"7.3 Computer Processing Techniques",
-               "content":"Computer processing techniques include batch processing, spooling, multiprogramming, multiprocessing, time sharing, real time processing, and off line processing [81, 82]. Batch processing collects a number of jobs offline and processes them without user intervention [81]. Spooling stores input data and output results on secondary storage to improve processing speed [81]. Multiprogramming runs multiple programs concurrently, increasing both throughput and response time [83]. Multiprocessing connects two or more CPUs to execute multiple instructions simultaneously [82]. Time-sharing divides CPU time among multiple users, providing each with a separate terminal [82]. Real-time processing updates records and processes data immediately as transactions occur [82]. Off-line processing does not directly control data processing via the CPU and involves collecting data onto secondary storage before processing [82, 84]."
-           }
-         ]
-       },
-         {
-        "topic": "8. Popular Operating Systems",
-         "subtopics":[
-           {
-             "subtopic":"8.1 Introduction",
-              "content":"An operating system is system software that provides an interaction between users and computer components [85]."
-           },
-           {
-             "subtopic":"8.2 Operating System",
-              "content":"An operating system manages various computer activities and shares resources [85]. It hosts applications and handles hardware operations [85]. Users interact with operating systems through Command Line Interfaces (CLIs) or Graphical User Interfaces (GUIs) [85]. Types of operating systems include real-time, multi-user and single-user, multi-tasking and single-tasking, distributed, and embedded systems [85, 86]. Multi-tasking can be pre-emptive or cooperative [86]."
-           },
-            {
-             "subtopic":"8.3 Unix Operating System",
-               "content":"Unix is a computer operating system developed at Bell Labs in 1969 [87]. It is portable, multi-tasking, and multi-user in a time-sharing configuration [88]. Unix systems use plain text for storing data, a hierarchical file system, and treat devices as files [88]. The Unix operating system consists of various utilities and a kernel [89]. The kernel starts and stops programs, manages the file system, schedules hardware access, and has special rights on the system, leading to a user-space and kernel-space division [89]. Components include kernel, development environment, libraries, and documentation [90]. The Unix shell is a programmable command line interpreter [91]. Unix has influenced other operating systems and features simplified file models and the concept of a command interpreter being an ordinary user-level program [92]. It popularized regular expressions and provided TCP/IP networking protocol [92].  GNU and Linux are free Unix-like operating systems [92]."
-            },
-             {
-             "subtopic":"8.4 MS-DOS-Disk Operating System",
-               "content":"MS-DOS is a disk operating system that works near hardware [93]. Its command interpreter is integrated with internal commands [93]. MS-DOS had a monopoly in the DOS market with about 80 million installations [93].  Common DOS internal commands include del, rd, dir, cd, cls, md, copy, ren, type, set, and vol [93]. Common DOS external commands include attrib, fdisk, move, mem, tree, and format [93]."
-            },
-           {
-              "subtopic":"8.5 Windows XP",
-              "content":"Windows XP is a line of operating systems by Microsoft for use on personal computers [94]. The two major editions are Windows XP Home Edition and Windows XP Professional [94]. Other editions include Windows XP Embedded and Windows Fundamentals for Legacy PCs [95].  Windows XP is available in multiple languages and has support for SATA hard drives and larger hard drives [96]. Service Pack 2 added the Windows Security Center and new security enhancements [96]. Service Pack 3 is the latest service pack for the OS [96]."
-            },
-             {
-              "subtopic":"8.6 Windows Vista",
-               "content":"Windows Vista has new and changed features, including Windows Internet Explorer 7, Windows Media Player 11, Backup and Restore Center, Windows Meeting Space, and Shadow Copy [97-99]. Shadow Copy is available only in the Business, Enterprise, and Ultimate editions [100]."
-             },
-           {
-              "subtopic":"8.7 Windows 8",
-               "content":"Windows 8 is a version of Microsoft Windows for personal computers, including desktops, laptops, tablets, and home theater PCs [101]. Windows Explorer (renamed File Explorer) includes a ribbon [101]. File operation dialog boxes provide detailed statistics and improvements in managing conflicts [101]. File History and Storage Spaces have been added [101]. Task Manager has been redesigned and the Blue Screen of Death has been updated [102]."
-             },
-             {
-              "subtopic":"8.8 Linux Operating System",
-               "content":"Linux is a generic term referring to Unix-like operating systems based on the Linux kernel [103]. It is a prominent example of free and open-source software collaboration [103]. Linux is used in servers, embedded devices, mobile phones, and supercomputers [103, 104]. Linux distributions on desktops and laptops are increasingly commonplace [103].  Linux distributions are also commonly used as operating systems for supercomputers [104]."
-            }
-         ]
-       }
-    ]
-  }]
+      {
+        subtopic: "1.2 Evolution of Computers",
+        content:
+          "Computers have evolved dramatically [3]. First-generation computers used **vacuum tube technology**, punched cards for input, and machine language for programming [4]. These computers were bulky, emitted heat, and had limited commercial use [4]. Charles Babbage is known as the 'father of modern digital computer' for inventing the analytical engine [5]. Early computers include the Mark I, the Atanasoff-Berry Computer (ABC), the ENIAC, the EDVAC, and the UNIVAC I [5, 6]. The **ENIAC** was the first all-electronic computer [5]. The **EDVAC** was the first machine to use the stored program concept [6]. Second-generation computers used **transistors** [7]. The machine language was replaced by assembly language and high-level languages like COBOL and FORTRAN were developed [7]. The **stored program concept** allowed instructions to be held in memory and quickly modified or replaced [7]. Third-generation computers used **integrated circuits (ICs)**, which increased computation speed and reduced size and power consumption [7, 8]. Operating systems were designed to run multiple programs at once, known as multiprogramming [8]. Fourth-generation computers used **Very Large Scale Integration (VLSI)** and saw the introduction of **microcomputers** and **personal computers** [8]. Networking became common, with the Internet linking computers worldwide [9]. Fifth-generation computers are characterized by **Artificial Intelligence (AI)**, like expert systems, and the ability to accept spoken words as input [9].",
+      },
+      {
+        subtopic: "1.3 Classification of Computers",
+        content:
+          "Computers are classified into **analog computers**, **digital computers**, and **hybrid computers** [10]. Analog computers recognize data as a continuous measurement of a physical property [10]. Digital computers are high-speed programmable devices that process data through mathematical calculations, comparisons, and sorting [10]. They accept input and produce output as discrete signals representing high or low voltage states [10]. Digital computers are further classified as general-purpose or special-purpose [10]. They are also classified based on memory access and size [10]: Microcomputers (or personal computers) have the smallest memory and are used in daily applications [11]. Notebook and laptop computers are portable and battery-operated [11]. Handheld computers are smaller than notebook computers and used for field data collection [12]. Hybrid computers combine the speed of analog computers with the accuracy of digital computers, used in specialized applications [12]. Minicomputers are more powerful than microcomputers, used in process control systems [12]. Mainframe computers are very large and process data at high speeds, used in large organizations [12]. Supercomputers are the fastest, most powerful, and most expensive computers, using parallel processing for complex tasks [12].",
+      },
+      {
+        subtopic: "1.4 Applications of Computers",
+        content:
+          "Computers are used in many areas [13]: Scientific, engineering, and research for experiments, calculations, weather forecasting, and complex applications [13]. Business for record keeping, budgets, reports, inventory, payroll, and database management [13]. Medicine for monitoring patient data, medical equipment, and medical research [13]. Information technology, including television, satellite communication, the Internet, and networks [13]. Education, where students develop logical thinking and problem-solving skills, and access digital learning materials [13]. Games and entertainment, including computer games, movies, and sports [13].",
+      },
+      {
+        subtopic: "1.5 Advantages and Disadvantages of Computers",
+        content:
+          "Computers have several advantages [14]: **Speed** - they can process millions of instructions per second [14]. **Accuracy** - they perform computations without errors [15]. **Efficiency** - they perform repeated tasks with the same efficiency [15]. **Storage Capacity** - they can store large amounts of data [15]. **Versatility** - they can perform complex tasks as well as non-numerical operations [15]. However, computers also have limitations [16]: They cannot think on their own and can only do what they are programmed to do [16]. They do not learn from previous experience and must go through all intermediate steps [16].",
+      },
+      {
+        subtopic: "1.6 Similarities and Differences between Computer and Human",
+        content:
+          "Similarities between humans and computers [17]: Computers have input devices like keyboards to get information, similar to human senses [17]. Computers store information like human memory [17]. Computers retrieve information as required, like humans recollect [17]. Computers express through screens and printouts, like human expression [17]. Computers can analyze information and draw conclusions with software [18]. The computer's CPU is like the human brain [18].  Differences between humans and computers [18]: Computers don't understand emotions or meaning beyond words, unlike humans [18]. Humans learn many things unknowingly, while computers learn only knowingly [18]. Computers have to be taught to do everything, while humans learn independently [18].",
+      },
+      {
+        subtopic: "1.7 A Computer System",
+        content:
+          "A system is a group of integrated parts designed to achieve a common objective [19]. A computer is made of integrated elements [19].",
+      },
+      {
+        subtopic: "1.8 Components of a Computer System",
+        content:
+          "The basic parts of a computer system are the input unit, the central processing unit (CPU), and the output unit [20]. The input unit feeds data and programs to the computer, connecting the external environment with the computer system, and converts data into a computer-acceptable format [20]. Input devices include keyboards, floppy disks, mice, microphones, light pens, and joysticks [20]. The CPU is the brain of the computer, consisting of the control unit, the arithmetic logic unit (ALU), and the primary storage unit [21]. The control unit controls operations of the computer system, gets instructions from programs, and directs other units [21]. The ALU executes instructions and performs calculations [21]. The primary storage unit (main memory) stores data, instructions, and intermediate results [21]. The output unit gives results to the outside world, accepting results from the computer, converting them into a human-readable form, using devices such as printers and display screens [21].",
+      },
+    ],
+  },
+  {
+    topic: "2. Input and Output Devices",
+    subtopics: [
+      {
+        subtopic: "2.1 Introduction",
+        content:
+          "Input/output (I/O) interfaces convert data into machine-readable form and output into human-readable form [22]. On-line data input transfers data directly to the computer, while off-line data input does not transfer data immediately [22].",
+      },
+      {
+        subtopic: "2.2 Input Devices",
+        content:
+          "Common input devices include: Punch cards store data using holes interpreted by a card reader [22, 23]. Keyboards are similar to typewriter keyboards and are used to enter letters, numbers, symbols, and special function keys [24]. A display screen or monitor shows the entered data and processing results [24]. A mouse is a pointing device used to control cursor movement [25]. Scanners directly enter text and images into the computer [26]. Optical scanners use light to read characters, pictures, and graphics [26]. Optical Mark Readers (OMR) read pre-specified marks made by pencils or pens [26]. Optical Character Readers (OCR) read alphabets, characters, and numbers printed on paper [26]. Bar code readers read data coded in the form of light or dark lines, commonly used in retail [27]. Magnetic Ink Character Recognition (MICR) devices are used in banking to read characters encoded with magnetic ink [27]. Voice recognition systems allow users to talk to the computer via a microphone [27].",
+      },
+      {
+        subtopic: "2.3 Output Devices",
+        content:
+          "Output devices enable the computer to communicate with the outside world [28]. Printers produce output on paper [28]. Impact printers use a hammer to strike a character against an inked ribbon and include dot matrix printers, line printers, and daisy wheel printers [28, 29]. Non-impact printers do not use a hammer and include ink jet printers and laser printers [30, 31]. Plotters output graphs and drawings and include flatbed and drum plotters [31, 32]. Video Display Terminals (VDT) display data and include dumb, smart, and intelligent terminals [33]. Computer Output Microfilm (COM) records computer output as microscopic filmed images [34].",
+      },
+    ],
+  },
+  {
+    topic: "3. Primary and Secondary Storage Devices",
+    subtopics: [
+      {
+        subtopic: "3.1 Introduction",
+        content:
+          "A storage unit stores data and instructions to be processed [35]. Primary memory (internal memory) is a part of the CPU that holds program instructions, input data, and intermediate results [35]. Secondary storage (external memory) is used for permanent, long-term storage of programs and data [35]. Storage units are graded according to speed of operation, efficiency, cost, and amount of data stored [35].",
+      },
+      {
+        subtopic: "3.2 Primary Storage",
+        content:
+          "Primary storage includes RAM (Random Access Memory) and ROM (Read-Only Memory) [36, 37]. RAM is volatile and loses data when power is turned off [36]. ROM is non-volatile and stores data permanently [37]. Primary memory is an integral part of the computer system and is made up of small locations, each with a unique address and a fixed number of bits called word length [38]. Cache memory is a small but fast memory between the CPU and the main memory, storing frequently needed data to increase efficiency [39]. Registers are special memory units used for temporary storage of information and efficient movement between computer units [39].",
+      },
+      {
+        subtopic: "3.3 Secondary Storage Devices",
+        content:
+          "Secondary storage devices are used to store large volumes of data, with lower cost but slower access time compared to primary memory [40]. Secondary storage is also called auxiliary memory, is non-volatile, and stores copies of data and programs [40]. Data on secondary storage can be accessed sequentially or directly [41]. Sequential access devices, like magnetic tape, store data in a linear fashion and are read and written sequentially [41, 42]. Magnetic tapes are inexpensive and have high data density, but are sensitive to environmental conditions [43, 44]. Direct access storage devices, like magnetic disks, allow access to any data location without having to follow the sequence in which it was stored [44]. Magnetic disks can be hard disks or floppy disks, storing data on a magnetic coating divided into tracks [44, 45]. Optical cards and optical tapes are also available [46]. Floppy disks can be single-sided or double-sided [47]. Winchester disks are permanently enclosed in a sealed container [48].",
+      },
+    ],
+  },
+  {
+    topic: "4. Number Systems",
+    subtopics: [
+      {
+        subtopic: "4.1 Introduction",
+        content:
+          "Computers store data internally in a format not easily readable by humans [49]. Input and output interfaces are required to convert data into a readable format [49]. Computers store numbers, letters, and other special characters in coded form [49]. Number systems are of two types: non-positional and positional [49].",
+      },
+      {
+        subtopic: "4.2 Non-positional Number System",
+        content:
+          "Non-positional number systems use symbols to represent numbers and the value of the number is determined by the number of symbols [49]. Arithmetic operations are difficult to perform in these systems [49].",
+      },
+      {
+        subtopic: "4.3 Positional Number System",
+        content:
+          "Positional number systems use digits, where the value of each digit depends on the digit itself, its position in the number, and the base of the number system [50]. The base is the total number of digits available in the system [50]. In the decimal system, the base is 10 [50]. The binary system has a base of 2, using only 0 and 1 [51]. The octal system has a base of 8, using digits 0 to 7 [52]. The hexadecimal system has a base of 16, using digits 0 to 9 and letters A to F [52]. Computers store data in binary form [52]. Octal and hexadecimal number systems are often used as shortcuts for binary [52].",
+      },
+      {
+        subtopic: "4.4 Conversion",
+        content:
+          "Numbers can be converted between different bases [53]. To convert from another base to decimal, determine the positional value of each digit, multiply the column values by the digits, and sum the products [53]. To convert from decimal to another base, divide the decimal number by the value of the new base, record the remainder as the rightmost digit, and repeat the process until the quotient becomes zero [54].",
+      },
+    ],
+  },
+  {
+    topic: "5. Boolean Algebra and Logic Circuits",
+    subtopics: [
+      {
+        subtopic: "5.1 Introduction",
+        content:
+          "Boolean algebra deals with the binary number system and is useful in designing logic circuits used in processors [55]. Logic gates are the building blocks of all logic circuits in a computer [55].",
+      },
+      {
+        subtopic: "5.2 Boolean Algebra",
+        content:
+          "Boolean algebra uses binary variables (0 and 1) and logical operators such as OR (+), AND (.), and NOT (-) [56].  The NOT operator takes precedence over AND and OR, and AND takes precedence over OR [56]. The principle of duality exists, which relates AND and OR, and 0 and 1 [57]. A Boolean function is an expression formed with binary variables, operators, parentheses, and equal signs [57].",
+      },
+      {
+        subtopic: "5.4 Logic Gates",
+        content:
+          "Logic gates implement Boolean functions. The NOT gate inverts an input [58]. The AND gate outputs 1 only when all inputs are 1 [58]. The OR gate outputs 1 if any input is 1 [58]. The NAND gate is an AND gate followed by a NOT gate [58]. A NOR gate is an OR gate followed by a NOT gate [58].",
+      },
+      {
+        subtopic: "5.5 Logic Circuits",
+        content:
+          "Logic circuits are made of logic gates and implement Boolean expressions [59].",
+      },
+      {
+        subtopic: "5.6 Design of Combinational Circuits",
+        content:
+          "Design of a combinational circuit involves stating the problem, determining input and output variables, assigning symbols, creating a truth table, obtaining simplified Boolean expressions, and drawing a logic circuit diagram [59].",
+      },
+    ],
+  },
+  {
+    topic:
+      "6. Computer Software, Programming Languages and Program Development",
+    subtopics: [
+      {
+        subtopic: "6.1 Introduction",
+        content:
+          "A computer program is a set of instructions that tells the computer what to do [60]. The program controls the processing of the computer [60].",
+      },
+      {
+        subtopic: "6.2 Classification of Software",
+        content:
+          "Software is a set of programs, procedures, and associated documentation that describes what the program does and how to use it [61]. Software is mainly classified into application software and system software [61]. Application software carries out a specific application, like payroll or financial accounting [61]. System software controls the working of the computer system and other software, allowing the user to communicate with the system [62]. Utility software consists of tools used in program development or for performing limited tasks [62]. Firmware is software available on ROM chips [63].",
+      },
+      {
+        subtopic: "6.3 Programming Languages",
+        content:
+          "A programming language is a means of communication between the user and the computer [64]. All programming languages are designed to perform basic instructions and operations [65]. Types of programming languages include machine language, assembly language, and high-level language [66]. Machine language uses binary code (0s and 1s) and is directly understood by the computer, but is difficult to program in [66]. Assembly language uses mnemonics to write program code [66]. High-level languages use English-like words and statements and are easier to learn, including FORTRAN, BASIC, COBOL, RPG, PASCAL, C, and LISP [67-69]. BASIC is beginner friendly [67]. COBOL is designed for business applications [68]. RPG generates output reports [68]. PASCAL is used for structured programming [69]. C is used for system programming [69]. LISP is used for non-numeric applications [69].",
+      },
+      {
+        subtopic: "6.4 Program Development Process",
+        content:
+          "The program development process includes the following stages: Problem Definition: Understanding and formally defining the problem [70]. Program Design: Designing the program using tools like algorithms and flowcharts [70, 71]. Algorithms are a step-by-step description of the procedure, and flowcharts are pictorial representations of algorithms [71, 72]. Coding: Writing instructions in a computer language [73]. Debugging: Detecting and correcting errors in the program [74]. Testing: Testing the program on a number of suitable test cases [75]. Documentation: Making the program easy to understand, modify, and maintain [75]. Maintenance: Updating and correcting the program [76]. Other techniques that are useful in designing of the program are modular programming and top-down design [73, 77].",
+      },
+    ],
+  },
+  {
+    topic: "7. Introduction to Operating Systems",
+    subtopics: [
+      {
+        subtopic: "7.1 Introduction",
+        content:
+          "The operating system (OS) acts as an interface between humans and the computer [78]. The OS ensures the smooth and efficient operation of a computer [78].",
+      },
+      {
+        subtopic: "7.2 Definition",
+        content:
+          "An operating system is an integrated set of programs that manage the resources and operations of a computer system [78]. It acts as an interface between humans and the computer, and ensures smooth and efficient operation of the computer [78]. Functions of an operating system include: processor management, memory management, input/output management, file management, data security and integrity, assigning priority to jobs, and interpreting commands and detecting errors [79, 80]. A resident program is a control program of the OS that resides in the main memory [80]. Transient programs reside on the disk and are accessed when needed [80]. Throughput is the total amount of work performed by the OS over a period of time [80].",
+      },
+      {
+        subtopic: "7.3 Computer Processing Techniques",
+        content:
+          "Computer processing techniques include batch processing, spooling, multiprogramming, multiprocessing, time sharing, real time processing, and off line processing [81, 82]. Batch processing collects a number of jobs offline and processes them without user intervention [81]. Spooling stores input data and output results on secondary storage to improve processing speed [81]. Multiprogramming runs multiple programs concurrently, increasing both throughput and response time [83]. Multiprocessing connects two or more CPUs to execute multiple instructions simultaneously [82]. Time-sharing divides CPU time among multiple users, providing each with a separate terminal [82]. Real-time processing updates records and processes data immediately as transactions occur [82]. Off-line processing does not directly control data processing via the CPU and involves collecting data onto secondary storage before processing [82, 84].",
+      },
+    ],
+  },
+  {
+    topic: "8. Popular Operating Systems",
+    subtopics: [
+      {
+        subtopic: "8.1 Introduction",
+        content:
+          "An operating system is system software that provides an interaction between users and computer components [85].",
+      },
+      {
+        subtopic: "8.2 Operating System",
+        content:
+          "An operating system manages various computer activities and shares resources [85]. It hosts applications and handles hardware operations [85]. Users interact with operating systems through Command Line Interfaces (CLIs) or Graphical User Interfaces (GUIs) [85]. Types of operating systems include real-time, multi-user and single-user, multi-tasking and single-tasking, distributed, and embedded systems [85, 86]. Multi-tasking can be pre-emptive or cooperative [86].",
+      },
+      {
+        subtopic: "8.3 Unix Operating System",
+        content:
+          "Unix is a computer operating system developed at Bell Labs in 1969 [87]. It is portable, multi-tasking, and multi-user in a time-sharing configuration [88]. Unix systems use plain text for storing data, a hierarchical file system, and treat devices as files [88]. The Unix operating system consists of various utilities and a kernel [89]. The kernel starts and stops programs, manages the file system, schedules hardware access, and has special rights on the system, leading to a user-space and kernel-space division [89]. Components include kernel, development environment, libraries, and documentation [90]. The Unix shell is a programmable command line interpreter [91]. Unix has influenced other operating systems and features simplified file models and the concept of a command interpreter being an ordinary user-level program [92]. It popularized regular expressions and provided TCP/IP networking protocol [92].  GNU and Linux are free Unix-like operating systems [92].",
+      },
+      {
+        subtopic: "8.4 MS-DOS-Disk Operating System",
+        content:
+          "MS-DOS is a disk operating system that works near hardware [93]. Its command interpreter is integrated with internal commands [93]. MS-DOS had a monopoly in the DOS market with about 80 million installations [93].  Common DOS internal commands include del, rd, dir, cd, cls, md, copy, ren, type, set, and vol [93]. Common DOS external commands include attrib, fdisk, move, mem, tree, and format [93].",
+      },
+      {
+        subtopic: "8.5 Windows XP",
+        content:
+          "Windows XP is a line of operating systems by Microsoft for use on personal computers [94]. The two major editions are Windows XP Home Edition and Windows XP Professional [94]. Other editions include Windows XP Embedded and Windows Fundamentals for Legacy PCs [95].  Windows XP is available in multiple languages and has support for SATA hard drives and larger hard drives [96]. Service Pack 2 added the Windows Security Center and new security enhancements [96]. Service Pack 3 is the latest service pack for the OS [96].",
+      },
+      {
+        subtopic: "8.6 Windows Vista",
+        content:
+          "Windows Vista has new and changed features, including Windows Internet Explorer 7, Windows Media Player 11, Backup and Restore Center, Windows Meeting Space, and Shadow Copy [97-99]. Shadow Copy is available only in the Business, Enterprise, and Ultimate editions [100].",
+      },
+      {
+        subtopic: "8.7 Windows 8",
+        content:
+          "Windows 8 is a version of Microsoft Windows for personal computers, including desktops, laptops, tablets, and home theater PCs [101]. Windows Explorer (renamed File Explorer) includes a ribbon [101]. File operation dialog boxes provide detailed statistics and improvements in managing conflicts [101]. File History and Storage Spaces have been added [101]. Task Manager has been redesigned and the Blue Screen of Death has been updated [102].",
+      },
+      {
+        subtopic: "8.8 Linux Operating System",
+        content:
+          "Linux is a generic term referring to Unix-like operating systems based on the Linux kernel [103]. It is a prominent example of free and open-source software collaboration [103]. Linux is used in servers, embedded devices, mobile phones, and supercomputers [103, 104]. Linux distributions on desktops and laptops are increasingly commonplace [103].  Linux distributions are also commonly used as operating systems for supercomputers [104].",
+      },
+    ],
+  },
+]
