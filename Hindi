@@ -27,6 +27,11 @@
 {
       "name": "वचन",
       "url": "https://raw.githubusercontent.com/swipeupandlearn/bpsc_tre_hindi/refs/heads/main/wachan.json"
+    },
+
+{
+      "name": "वाक्य रचना",
+      "url": "https://raw.githubusercontent.com/swipeupandlearn/bpsc_tre_hindi/refs/heads/main/wakyaa.json"
     }
   ]
 }
