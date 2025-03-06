@@ -15,6 +15,10 @@
     {
       "name": "संधि",
       "url": "https://raw.githubusercontent.com/swipeupandlearn/bpsc_tre_hindi/refs/heads/main/Sandhi.json"
+    },
+    {
+      "name": "लिंग",
+      "url": "https://raw.githubusercontent.com/swipeupandlearn/bpsc_tre_hindi/refs/heads/main/ling.json"
     }
   ]
 }
