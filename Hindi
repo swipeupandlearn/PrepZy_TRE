@@ -19,6 +19,10 @@
     {
       "name": "लिंग",
       "url": "https://raw.githubusercontent.com/swipeupandlearn/bpsc_tre_hindi/refs/heads/main/ling.json"
+    },
+ {
+      "name": "क्रिया",
+      "url": "https://raw.githubusercontent.com/swipeupandlearn/bpsc_tre_hindi/refs/heads/main/Kriya.json"
     }
   ]
 }
