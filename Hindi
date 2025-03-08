@@ -60,6 +60,11 @@
     },{
       "name": "मुहावरे और लोकोक्तियाँ",
       "url": "https://raw.githubusercontent.com/swipeupandlearn/bpsc_tre_hindi/refs/heads/main/muhawre.json"
+    },
+{
+      "name": "सर्वनाम",
+      "url": "https://raw.githubusercontent.com/swipeupandlearn/bpsc_tre_hindi/refs/heads/main/sarvnaam.json"
     }
+ 
   ]
 }
