@@ -41,6 +41,9 @@
 {
       "name": "पदबंध ",
       "url": "https://raw.githubusercontent.com/swipeupandlearn/bpsc_tre_hindi/refs/heads/main/padbhandhan.json"
+    },{
+      "name": "शब्द रचना ",
+      "url": "https://raw.githubusercontent.com/swipeupandlearn/bpsc_tre_hindi/refs/heads/main/sabdRachna.json"
     }
   ]
 }
