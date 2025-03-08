@@ -48,5 +48,18 @@
       "name": "वर्तनी-विचार",
       "url": "https://raw.githubusercontent.com/swipeupandlearn/bpsc_tre_hindi/refs/heads/main/bartaniVichar.json"
     }
+,{
+      "name": "कारक",
+      "url": "https://raw.githubusercontent.com/swipeupandlearn/bpsc_tre_hindi/refs/heads/main/karak.json"
+    },{
+      "name": "समास",
+      "url": "https://raw.githubusercontent.com/swipeupandlearn/bpsc_tre_hindi/refs/heads/main/samash.json"
+    },{
+      "name": "विशेषण",
+      "url": "https://raw.githubusercontent.com/swipeupandlearn/bpsc_tre_hindi/refs/heads/main/visheshan.json"
+    },{
+      "name": "मुहावरे और लोकोक्तियाँ",
+      "url": "https://raw.githubusercontent.com/swipeupandlearn/bpsc_tre_hindi/refs/heads/main/muhawre.json"
+    }
   ]
 }
