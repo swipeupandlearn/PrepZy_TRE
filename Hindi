@@ -68,6 +68,10 @@
 {
       "name": "वर्ण - स्वर व व्यंजन",
       "url": "https://raw.githubusercontent.com/swipeupandlearn/bpsc_tre_hindi/refs/heads/main/warn.json"
+    },
+{
+      "name": "वाच्य",
+      "url": "https://raw.githubusercontent.com/swipeupandlearn/bpsc_tre_hindi/refs/heads/main/wachya.json"
     }
  
   ]
