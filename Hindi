@@ -72,6 +72,10 @@
 {
       "name": "वाच्य",
       "url": "https://raw.githubusercontent.com/swipeupandlearn/bpsc_tre_hindi/refs/heads/main/wachya.json"
+    },
+{
+      "name": "समानार्थी और पर्यायवाची शब्द",
+      "url": "https://raw.githubusercontent.com/swipeupandlearn/bpsc_tre_hindi/refs/heads/main/Paryaywachi.json"
     }
  
   ]
