@@ -76,6 +76,10 @@
 {
       "name": "समानार्थी और पर्यायवाची शब्द",
       "url": "https://raw.githubusercontent.com/swipeupandlearn/bpsc_tre_hindi/refs/heads/main/Paryaywachi.json"
+    },
+{
+      "name": "छंद",
+      "url": "https://raw.githubusercontent.com/swipeupandlearn/bpsc_tre_hindi/refs/heads/main/chhand.json"
     }
  
   ]
