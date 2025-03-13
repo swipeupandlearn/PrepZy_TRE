@@ -88,6 +88,10 @@
 {
       "name": "शब्द युग्म",
       "url": "https://raw.githubusercontent.com/swipeupandlearn/bpsc_tre_hindi/refs/heads/main/yugmSabd.json"
+    },
+{
+      "name": "काल",
+      "url": "https://raw.githubusercontent.com/swipeupandlearn/bpsc_tre_hindi/refs/heads/main/kaal.json"
     }
  
   ]
