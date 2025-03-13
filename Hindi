@@ -92,6 +92,10 @@
 {
       "name": "काल",
       "url": "https://raw.githubusercontent.com/swipeupandlearn/bpsc_tre_hindi/refs/heads/main/kaal.json"
+    },
+{
+      "name": "धातु",
+      "url": "https://raw.githubusercontent.com/swipeupandlearn/bpsc_tre_hindi/refs/heads/main/dhaatu.json"
     }
  
   ]
