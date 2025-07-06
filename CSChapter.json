@@ -1,5 +1,5 @@
-{
-  "Computer": [
+
+  [
     {
       "name": "Computer System and Organization",
       "url": "https://raw.githubusercontent.com/swipeupandlearn/PrepZy_TRE/refs/heads/main/CompSysAndOrg.json"
@@ -13,4 +13,4 @@
       "url": "https://raw.githubusercontent.com/swipeupandlearn/PrepZy_TRE/refs/heads/main/CompSysAndOrg.json"
     }
   ]
-}
+
