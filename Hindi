@@ -1,5 +1,5 @@
-{
-  "Hindi": [
+
+  [
     {
       "name": "विराम चिह्न",
       "url": "https://raw.githubusercontent.com/swipeupandlearn/bpsc_tre_hindi/refs/heads/main/viramChinhh.json"
@@ -99,4 +99,4 @@
     }
  
   ]
-}
+
