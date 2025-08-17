@@ -1,0 +1,79 @@
+[
+  {
+    "topic": "BPSC TRE 4 Exam Structure",
+    "subtopics": [
+      {
+        "subtopic": "Overview",
+        "content": "The BPSC Teacher Recruitment Exam (TRE 4.0) is conducted for four levels: Primary (Classes 1–5), Middle (Classes 6–8), Secondary (Classes 9–10), and Senior Secondary (Classes 11–12). The exam consists of a Preliminary Exam (Language + General Studies) and a Mains Exam (Subject Paper). The Language paper is qualifying, while the General Studies and Subject Papers determine merit."
+      }
+    ]
+  },
+  {
+    "topic": "Primary Level (Classes 1–5)",
+    "subtopics": [
+      {
+        "subtopic": "Preliminary Exam - Language",
+        "content": "Part I: English (grammar, vocabulary, comprehension, idioms, synonyms, antonyms). Part II: Chosen language (Hindi, Urdu, Bangla) covering शब्द भंडार, गद्य/काव्य बोध, शुद्ध–अशुद्ध वाक्य, मुहावरे और लोकोक्तियाँ."
+      },
+      {
+        "subtopic": "Preliminary Exam - General Studies",
+        "content": "Child Development & Pedagogy, Environmental Studies, Basic Mathematics, Reasoning, Current Affairs, General Awareness with focus on Bihar."
+      },
+      {
+        "subtopic": "Mains Exam - Subject",
+        "content": "Mathematics & Science OR Social Studies OR Language (based on the candidate’s choice). Pedagogy, teaching-learning strategies, and classroom management basics."
+      }
+    ]
+  },
+  {
+    "topic": "Middle Level (Classes 6–8)",
+    "subtopics": [
+      {
+        "subtopic": "Preliminary Exam - Language",
+        "content": "Same structure as Primary level (English + chosen regional language)."
+      },
+      {
+        "subtopic": "Preliminary Exam - General Studies",
+        "content": "General Science, Social Science, Mathematics, Reasoning, Current Affairs, Indian Polity, Geography, History (focus on Bihar)."
+      },
+      {
+        "subtopic": "Mains Exam - Subject",
+        "content": "Choice of subject based on teaching specialization: Hindi, Urdu, Bangla, English, Mathematics, Science, or Social Science. Includes subject-specific pedagogy."
+      }
+    ]
+  },
+  {
+    "topic": "Secondary Level (Classes 9–10)",
+    "subtopics": [
+      {
+        "subtopic": "Preliminary Exam - Language",
+        "content": "English (grammar, comprehension, vocabulary) + chosen regional language (Hindi/Urdu/Bangla)."
+      },
+      {
+        "subtopic": "Preliminary Exam - General Studies",
+        "content": "General Science, Mathematics, Reasoning, Current Affairs, Indian & Bihar-specific History, Geography, Polity, and Economy."
+      },
+      {
+        "subtopic": "Mains Exam - Subject",
+        "content": "Candidates choose from: Hindi, English, Urdu, Bangla, Sanskrit, Mathematics, Science, or Social Science. Subject knowledge up to Class 10 level along with pedagogy and teaching methodology."
+      }
+    ]
+  },
+  {
+    "topic": "Senior Secondary Level (Classes 11–12)",
+    "subtopics": [
+      {
+        "subtopic": "Preliminary Exam - Language",
+        "content": "Same as Secondary level (English + chosen regional language)."
+      },
+      {
+        "subtopic": "Preliminary Exam - General Studies",
+        "content": "Covers General Awareness, Reasoning, Mathematics, Current Affairs, Science, Social Science, and Bihar-related GK."
+      },
+      {
+        "subtopic": "Mains Exam - Subject",
+        "content": "Candidates choose from their PG/teaching subject: Hindi, English, Urdu, Bangla, Sanskrit, Physics, Chemistry, Biology, Mathematics, History, Geography, Political Science, Economics, Commerce, Philosophy, Psychology, Computer Science, etc. Questions focus on subject expertise along with pedagogy and teaching-learning approaches."
+      }
+    ]
+  }
+]
