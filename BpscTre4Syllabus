@@ -116,5 +116,38 @@
         "content": "Family & friends, food, shelter, water, travel, plants, animals, natural resources, pollution, conservation."
       }
     ]
+  },
+  {
+    "topic": "Pedagogy (All Levels)",
+    "subtopics": [
+      {
+        "subtopic": "Child Development (Primary & Middle)",
+        "content": "Growth and development stages—physical, cognitive, social, emotional. Major theories of learning and development: Piaget (cognitive stages), Vygotsky (social constructivism), Kohlberg (moral development). Relevance of heredity and environment."
+      },
+      {
+        "subtopic": "Learning & Teaching Methods (All Levels)",
+        "content": "Principles of learning—motivation, reinforcement, transfer of learning. Teaching strategies: activity-based learning, multi-sensory approaches, peer tutoring, constructivist and behaviorist approaches. ICT integration and use of audio-visual aids in classroom."
+      },
+      {
+        "subtopic": "Inclusive Education (All Levels)",
+        "content": "Concept of inclusive education, teaching strategies for children with disabilities and special needs. Gender sensitivity, social equality, dealing with disadvantaged and marginalized learners. Role of teacher in promoting equity."
+      },
+      {
+        "subtopic": "Assessment & Evaluation (Primary & Middle)",
+        "content": "Continuous and Comprehensive Evaluation (CCE), formative and summative assessment, diagnostic evaluation. Use of rubrics, feedback mechanisms, and Individualized Educational Plans (IEP). Assessment methods adapted for special needs students."
+      },
+      {
+        "subtopic": "Subject-Specific Pedagogy (Secondary & Senior Secondary)",
+        "content": "Pedagogy integrated into subject papers: methods of teaching Languages, Mathematics, Science, Social Science, Commerce, Humanities. Application of child psychology and teaching-learning strategies in subject context. Focus on NCERT syllabus alignment."
+      },
+      {
+        "subtopic": "School Organization & Leadership (All Levels)",
+        "content": "Structure and functioning of educational institutions: CRC, BRC, DIET, SCERT, NCERT. School culture, classroom climate, professional development of teachers, co-curricular activities, and administrative management."
+      },
+      {
+        "subtopic": "Policy & Curriculum Frameworks (All Levels)",
+        "content": "National Curriculum Framework (NCF 2005), Bihar Curriculum Framework (2008). Right to Education (RTE), NEP-related reforms, integration of inclusive and child-centered approaches into curriculum and pedagogy."
+      }
+    ]
   }
 ]
