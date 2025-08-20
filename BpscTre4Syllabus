@@ -5,6 +5,14 @@
       {
         "subtopic": "Overview",
         "content": "The BPSC Teacher Recruitment Exam (TRE 4.0) is conducted for four levels: Primary (Classes 1–5), Middle (Classes 6–8), Secondary (Classes 9–10), and Senior Secondary (Classes 11–12). The exam consists of a Preliminary Exam (Language + General Studies) and a Mains Exam (Subject Paper). The Language paper is qualifying, while the General Studies and Subject Papers determine merit."
+      },
+      {
+        "subtopic": "Exam Pattern",
+        "content": "The exam is objective-type with 150 questions for 150 marks in 2 hours 30 minutes. It has three parts: (1) Language – 30 marks (qualifying only, minimum 30% required, no negative marking), (2) General Studies – 40 marks (with negative marking of 1/3rd mark per wrong answer), and (3) Concerned Subject – 80 marks (with negative marking of 1/3rd mark per wrong answer)."
+      },
+      {
+        "subtopic": "Mark Distribution",
+        "content": "Language – 30 questions (30 marks, qualifying only), General Studies – 40 questions (40 marks), Subject Paper – 80 questions (80 marks). Total = 150 marks in 2 hours 30 minutes."
       }
     ]
   },
@@ -12,16 +20,16 @@
     "topic": "Primary Level (Classes 1–5)",
     "subtopics": [
       {
-        "subtopic": "Preliminary Exam - Language",
-        "content": "Part I: English (grammar, vocabulary, comprehension, idioms, synonyms, antonyms). Part II: Chosen language (Hindi, Urdu, Bangla) covering शब्द भंडार, गद्य/काव्य बोध, शुद्ध–अशुद्ध वाक्य, मुहावरे और लोकोक्तियाँ."
+        "subtopic": "Preliminary Exam - Language (Primary)",
+        "content": "Part I: English – grammar, vocabulary, comprehension, idioms, synonyms, antonyms. Part II: Chosen language (Hindi, Urdu, Bangla) – शब्द भंडार, गद्य/काव्य बोध, शुद्ध–अशुद्ध वाक्य, मुहावरे और लोकोक्तियाँ. Minimum 30% required. No negative marking. (30 Q / 30 Marks / 30 Minutes)"
       },
       {
-        "subtopic": "Preliminary Exam - General Studies",
-        "content": "Child Development & Pedagogy, Environmental Studies, Basic Mathematics, Reasoning, Current Affairs, General Awareness with focus on Bihar."
+        "subtopic": "Preliminary Exam - General Studies (Primary)",
+        "content": "Child Development & Pedagogy, Environmental Studies, Basic Mathematics, Reasoning, Current Affairs, General Awareness with focus on Bihar (history, geography, polity, economy, culture, and education policies). Negative marking: 1/3rd per wrong answer. (40 Q / 40 Marks / 50 Minutes)"
       },
       {
-        "subtopic": "Mains Exam - Subject",
-        "content": "Mathematics & Science OR Social Studies OR Language (based on the candidate’s choice). Pedagogy, teaching-learning strategies, and classroom management basics."
+        "subtopic": "Mains Exam - Subject (Primary)",
+        "content": "Mathematics & Science OR Social Studies OR Language (based on candidate’s choice). Includes pedagogy, teaching-learning strategies, and classroom management basics. Negative marking applies. (80 Q / 80 Marks / 70 Minutes)"
       }
     ]
   },
@@ -29,16 +37,16 @@
     "topic": "Middle Level (Classes 6–8)",
     "subtopics": [
       {
-        "subtopic": "Preliminary Exam - Language",
-        "content": "Same structure as Primary level (English + chosen regional language)."
+        "subtopic": "Preliminary Exam - Language (Middle)",
+        "content": "Same as Primary level (English + chosen regional language). Minimum 30% required. No negative marking. (30 Q / 30 Marks / 30 Minutes)"
       },
       {
-        "subtopic": "Preliminary Exam - General Studies",
-        "content": "General Science, Social Science, Mathematics, Reasoning, Current Affairs, Indian Polity, Geography, History (focus on Bihar)."
+        "subtopic": "Preliminary Exam - General Studies (Middle)",
+        "content": "General Science, Social Science, Mathematics, Reasoning, Current Affairs, Indian Polity, Geography, History (focus on Bihar), Indian National Movement (1857, Non-Cooperation, Gandhian movements, etc.), Bihar’s culture and economy. Negative marking: 1/3rd per wrong answer. (40 Q / 40 Marks / 50 Minutes)"
       },
       {
-        "subtopic": "Mains Exam - Subject",
-        "content": "Choice of subject based on teaching specialization: Hindi, Urdu, Bangla, English, Mathematics, Science, or Social Science. Includes subject-specific pedagogy."
+        "subtopic": "Mains Exam - Subject (Middle)",
+        "content": "Choice of subject: Hindi, Urdu, Bangla, English, Mathematics, Science, or Social Science. Includes subject-specific pedagogy and teaching methodologies. Negative marking applies. (80 Q / 80 Marks / 70 Minutes)"
       }
     ]
   },
@@ -46,16 +54,16 @@
     "topic": "Secondary Level (Classes 9–10)",
     "subtopics": [
       {
-        "subtopic": "Preliminary Exam - Language",
-        "content": "English (grammar, comprehension, vocabulary) + chosen regional language (Hindi/Urdu/Bangla)."
+        "subtopic": "Preliminary Exam - Language (Secondary)",
+        "content": "English (grammar, comprehension, vocabulary) + chosen regional language (Hindi/Urdu/Bangla). Minimum 30% required. No negative marking. (30 Q / 30 Marks / 30 Minutes)"
       },
       {
-        "subtopic": "Preliminary Exam - General Studies",
-        "content": "General Science, Mathematics, Reasoning, Current Affairs, Indian & Bihar-specific History, Geography, Polity, and Economy."
+        "subtopic": "Preliminary Exam - General Studies (Secondary)",
+        "content": "General Science (Physics, Chemistry, Biology basics), Mathematics (algebra, geometry, mensuration, arithmetic), Reasoning (coding-decoding, syllogism, series, blood relations), Current Affairs, Indian & Bihar-specific History, Geography, Polity, Economy, Environment. Negative marking: 1/3rd per wrong answer. (40 Q / 40 Marks / 50 Minutes)"
       },
       {
-        "subtopic": "Mains Exam - Subject",
-        "content": "Candidates choose from: Hindi, English, Urdu, Bangla, Sanskrit, Mathematics, Science, or Social Science. Subject knowledge up to Class 10 level along with pedagogy and teaching methodology."
+        "subtopic": "Mains Exam - Subject (Secondary)",
+        "content": "Candidates choose from: Hindi, English, Urdu, Bangla, Sanskrit, Mathematics, Science, or Social Science. Questions are based on NCERT syllabus of Classes 9–10. Includes pedagogy, teaching methodology, and classroom management. Negative marking applies. (80 Q / 80 Marks / 70 Minutes)"
       }
     ]
   },
@@ -63,16 +71,49 @@
     "topic": "Senior Secondary Level (Classes 11–12)",
     "subtopics": [
       {
-        "subtopic": "Preliminary Exam - Language",
-        "content": "Same as Secondary level (English + chosen regional language)."
+        "subtopic": "Preliminary Exam - Language (Senior Secondary)",
+        "content": "Same as Secondary level (English + chosen regional language). Minimum 30% required. No negative marking. (30 Q / 30 Marks / 30 Minutes)"
       },
       {
-        "subtopic": "Preliminary Exam - General Studies",
-        "content": "Covers General Awareness, Reasoning, Mathematics, Current Affairs, Science, Social Science, and Bihar-related GK."
+        "subtopic": "Preliminary Exam - General Studies (Senior Secondary)",
+        "content": "General Awareness, Reasoning, Mathematics, Current Affairs, Science, Social Science, Geography, Indian National Movement, Indian Constitution, Bihar-specific GK (culture, geography, polity, economy, education). Negative marking: 1/3rd per wrong answer. (40 Q / 40 Marks / 50 Minutes)"
       },
       {
-        "subtopic": "Mains Exam - Subject",
-        "content": "Candidates choose from their PG/teaching subject: Hindi, English, Urdu, Bangla, Sanskrit, Physics, Chemistry, Biology, Mathematics, History, Geography, Political Science, Economics, Commerce, Philosophy, Psychology, Computer Science, etc. Questions focus on subject expertise along with pedagogy and teaching-learning approaches."
+        "subtopic": "Mains Exam - Subject (Senior Secondary)",
+        "content": "Candidates choose from their PG/teaching subject: Hindi, English, Urdu, Bangla, Sanskrit, Physics, Chemistry, Biology, Mathematics, History, Geography, Political Science, Economics, Commerce, Accountancy, Philosophy, Psychology, Computer Science, etc. Questions are based on NCERT syllabus of Classes 11–12 and PG level understanding. Includes pedagogy and teaching-learning approaches. Negative marking applies. (80 Q / 80 Marks / 70 Minutes)"
+      }
+    ]
+  },
+  {
+    "topic": "General Studies Detailed Syllabus (All Levels)",
+    "subtopics": [
+      {
+        "subtopic": "Mathematics",
+        "content": "Number system, simplification, ratio and proportion, percentage, average, profit and loss, simple and compound interest, time and work, speed-distance-time, algebra, geometry, mensuration, trigonometry (basic)."
+      },
+      {
+        "subtopic": "Reasoning",
+        "content": "Analogy, classification, coding-decoding, series (number, letter), blood relations, direction sense, Venn diagrams, syllogism, logical reasoning, statement & conclusion."
+      },
+      {
+        "subtopic": "General Awareness & Bihar Specific",
+        "content": "History, geography, polity, economy, culture, education policies of Bihar. Indian Constitution, governance, important laws, environment and ecology."
+      },
+      {
+        "subtopic": "Current Affairs",
+        "content": "National & international events, sports, awards, books/authors, important government schemes and policies, Bihar-specific current developments."
+      },
+      {
+        "subtopic": "Science",
+        "content": "Basic Physics, Chemistry, Biology up to secondary level. Everyday science, health & sanitation, environment, technology awareness."
+      },
+      {
+        "subtopic": "Pedagogy",
+        "content": "Child development, teaching-learning approaches, classroom management, inclusive education, educational psychology, assessment methods."
+      },
+      {
+        "subtopic": "Environmental Studies (for Primary)",
+        "content": "Family & friends, food, shelter, water, travel, plants, animals, natural resources, pollution, conservation."
       }
     ]
   }
