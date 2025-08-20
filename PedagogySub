@@ -1,38 +1,333 @@
 [
   {
-    "topic": "Pedagogy & Child Development – Study Material for BPSC TRE 4.0",
+    "topic": "1. Child Development (Primary & Middle)",
     "subtopics": [
       {
-        "subtopic": "Definitions & Role of Teaching",
-        "content": "Teaching is both an art and a scientific process. It involves guiding students from unfamiliar concepts to understanding, while providing structured learning opportunities and targeted feedback. Effective teachers play multiple roles:\n- Subject-matter experts: possessing deep content knowledge and adapting it for clarity.\n- Pedagogical experts: crafting engaging learning objectives and facilitating critical thinking.\n- Communicators: using clear, organized language and utilizing supportive teaching tools.\n- Student-centered mentors: encouraging active participation and intellectual growth.\n- Continuous assessors: evaluating both student progress and one’s own teaching efficacy to stay dynamic in the classroom." 
+        "subtopic": "Growth and Development Stages",
+        "content": "Growth refers to quantitative physical changes (height, weight, size). Development is qualitative changes in behavior, skills, and abilities. Stages: Infancy (0–2 years), Early Childhood (2–6 years), Middle Childhood (6–12 years), Adolescence (12–18 years)."
       },
       {
-        "subtopic": "Child Development (Primary & Middle)",
-        "content": "Child development covers physical, cognitive, emotional, and social growth. Key theories include:\n• Piaget’s stages: sensorimotor, preoperational, concrete, and formal operational.\n• Vygotsky’s Zone of Proximal Development and social learning emphasis.\n• Kohlberg’s stages of moral reasoning.\nTeachers must consider environmental factors like nutrition, family background, and local culture—such as rural realities in Bihar—to create suitable learning experiences."
+        "subtopic": "Physical Development",
+        "content": "Bodily changes such as height, weight, motor skills, puberty. Example: By age 6, a child can run, climb, and draw basic shapes."
       },
       {
-        "subtopic": "Learning Theories & Instructional Methods (All Levels)",
-        "content": "Understanding how students learn enhances teaching.\nApproaches include:\n• Behaviorism: learning via reinforcement (e.g., praising correct answers).\n• Constructivism: engaging students actively through activities and discovery.\n• Inquiry-based learning: prompting exploration via questions and experiments.\n• Cooperative learning: peer discussions, group tasks, and collaborative projects.\n• ICT integration: using audio-visual aids, slide presentations, and simulations to make learning engaging.\nFor instance, using manipulatives like sticks or coins helps primary kids grasp addition before introducing abstract numbers."
+        "subtopic": "Cognitive Development",
+        "content": "Mental processes like thinking, memory, problem-solving, and reasoning. Example: Piaget’s stages highlight how children progress from concrete thinking to abstract reasoning."
       },
       {
-        "subtopic": "Inclusive Education & Equity (All Levels)",
-        "content": "Inclusive education ensures every learner belongs and succeeds, regardless of ability or background:\n• Catering to CWSN (Children With Special Needs): including visually/hearing impaired and slow learners.\n• Using assistive tools (e.g., Braille, sign language) and differentiated instruction.\n• Promoting gender sensitivity and social equality among students.\nIn a Bihar classroom, pairing students strategically—like pairing a visually impaired child with a peer buddy—can foster inclusion."
+        "subtopic": "Social Development",
+        "content": "Learning to interact with family, peers, and society. Example: In middle childhood, children form peer groups and learn teamwork."
       },
       {
-        "subtopic": "Assessment & Evaluation (Primary & Middle)",
-        "content": "Assessment should guide and support learning:\n• Continuous & Comprehensive Evaluation (CCE) monitors both academic and co-scholastic growth.\n• Types include formative (in-class quizzes), summative (end-term exams), diagnostic (identifying gaps), and remedial strategies.\n• Tools range from written tests and assignments to portfolios and oral assessments.\n• Feedback is central—used for constructive improvement rather than just grading.\nExample: Project work on local festivals helps assess cultural understanding and creativity beyond rote memorization."
+        "subtopic": "Emotional Development",
+        "content": "Ability to recognize, express, and control emotions. Example: Children in adolescence experience mood swings due to hormonal changes."
       },
       {
-        "subtopic": "Subject-Specific Pedagogy (Secondary & Senior Secondary)",
-        "content": "Pedagogy at higher levels merges with strong subject knowledge:\n• Language: focus on reading, writing, speaking; methods include dictation, role-play, debates.\n• Mathematics: visualization, use of models and activity-based demonstrations.\n• Science: lab experiments, inquiry-based methods, real-life connections.\n• Social Science: map exercises, timelines, storytelling, debates on historical events.\nSubject learning is deeply tied to NCERT syllabus standards and interactive teaching strategies."
+        "subtopic": "Piaget’s Cognitive Stages",
+        "content": "1. Sensorimotor (0–2 years): Learning through senses. 2. Preoperational (2–7 years): Symbolic thinking, egocentrism. 3. Concrete Operational (7–11 years): Logical thinking, conservation concept. 4. Formal Operational (12+ years): Abstract and hypothetical reasoning."
       },
       {
-        "subtopic": "School Organization & Leadership (All Levels)",
-        "content": "Teachers’ effectiveness is enhanced by understanding systemic support:\n• Educational bodies: CRC, BRC, DIET, SCERT, NCERT play key roles in training and curriculum design.\n• Classroom management: fostering discipline, punctuality, and a growth-oriented culture.\n• Encouraging co-curricular participation and community engagement.\n• Professional development: remaining updated via workshops, ethical conduct, and self-reflection.\nFor example, leading cleanliness drives in class teaches responsibility and leadership."
+        "subtopic": "Vygotsky’s Social Constructivism",
+        "content": "Emphasized learning through social interaction. Key concepts: Zone of Proximal Development (ZPD) and Scaffolding. Example: A child learns math better with teacher guidance within ZPD."
       },
       {
-        "subtopic": "Policy & Curriculum Frameworks (All Levels)",
-        "content": "Teachers must align their approach with policy and curricular guidelines:\n• NCF 2005: emphasizes student-centered, activity-based learning.\n• Bihar Curriculum Framework 2008: local adaptation of NCF principles.\n• RTE Act 2009: ensures free and compulsory education, defines teacher responsibilities.\n• NEP 2020: introduces foundational literacy-numeracy and competency-based curriculum under the 5+3+3+4 structure.\nApplication: Incorporating local culture (folk stories, regional art) in lessons aligns with both NCF and Bihar frameworks."
+        "subtopic": "Kohlberg’s Moral Development",
+        "content": "1. Pre-conventional: Obedience and punishment. 2. Conventional: Social approval, law and order. 3. Post-conventional: Universal ethical principles. Example: A teenager questions unfair laws."
+      },
+      {
+        "subtopic": "Heredity and Environment",
+        "content": "Heredity provides genetic potential, while environment (family, school, culture) shapes behavior and learning. Example: A child may inherit musical talent (heredity) but needs training (environment)."
+      }
+    ]
+  },
+  {
+    "topic": "2. Learning & Teaching Methods (All Levels)",
+    "subtopics": [
+      {
+        "subtopic": "Principles of Learning",
+        "content": "1. Motivation: Encourages active learning. 2. Reinforcement: Rewards/punishments to strengthen behavior. 3. Transfer of Learning: Application of old knowledge to new situations."
+      },
+      {
+        "subtopic": "Activity-Based Learning",
+        "content": "Learning through doing—projects, experiments, role play. Example: Teaching fractions using paper folding."
+      },
+      {
+        "subtopic": "Multi-Sensory Approaches",
+        "content": "Using multiple senses (visual, auditory, kinesthetic) for better retention. Example: Teaching alphabets using flashcards (visual) + rhymes (auditory)."
+      },
+      {
+        "subtopic": "Peer Tutoring",
+        "content": "Students help each other in learning. Example: A strong student explains a math problem to a weaker peer."
+      },
+      {
+        "subtopic": "Constructivist Approach",
+        "content": "Learners build knowledge through experiences. Example: Science experiments where students discover laws themselves."
+      },
+      {
+        "subtopic": "Behaviorist Approach",
+        "content": "Focus on observable behavior. Example: Using rewards for correct answers."
+      },
+      {
+        "subtopic": "ICT in Classroom",
+        "content": "Use of digital tools, smart boards, videos, and online resources to make learning interactive."
+      }
+    ]
+  },
+  {
+    "topic": "3. Inclusive Education (All Levels)",
+    "subtopics": [
+      {
+        "subtopic": "Concept of Inclusive Education",
+        "content": "Education for all learners including differently-abled, disadvantaged, and marginalized children in the same classroom."
+      },
+      {
+        "subtopic": "Teaching Strategies for Special Needs",
+        "content": "Individualized instruction, use of assistive devices, differentiated learning materials."
+      },
+      {
+        "subtopic": "Gender Sensitivity",
+        "content": "Equal participation of boys and girls. Avoiding stereotypes. Example: Encouraging girls in STEM subjects."
+      },
+      {
+        "subtopic": "Social Equality",
+        "content": "Providing equal opportunities irrespective of caste, class, religion, or economic status."
+      },
+      {
+        "subtopic": "Role of Teacher",
+        "content": "Ensuring classroom equity, encouraging cooperation, preventing discrimination."
+      }
+    ]
+  },
+  {
+    "topic": "4. Assessment & Evaluation (Primary & Middle)",
+    "subtopics": [
+      {
+        "subtopic": "Continuous and Comprehensive Evaluation (CCE)",
+        "content": "Assessment system covering scholastic (academic) and co-scholastic (behavior, life skills) aspects regularly."
+      },
+      {
+        "subtopic": "Formative Assessment",
+        "content": "Assessment during learning to improve performance. Example: quizzes, class tests."
+      },
+      {
+        "subtopic": "Summative Assessment",
+        "content": "End-of-term evaluation to measure achievement. Example: final exams."
+      },
+      {
+        "subtopic": "Diagnostic Evaluation",
+        "content": "Identifies learning difficulties and suggests remedies. Example: A spelling test to find problem areas."
+      },
+      {
+        "subtopic": "Rubrics & Feedback",
+        "content": "Rubrics are scoring guides with criteria. Constructive feedback helps students improve."
+      },
+      {
+        "subtopic": "Individualized Educational Plan (IEP)",
+        "content": "Tailored plan for children with special needs, focusing on their strengths and weaknesses."
+      }
+    ]
+  },
+  {
+    "topic": "5. Subject-Specific Pedagogy (Secondary & Senior Secondary)",
+    "subtopics": [
+      {
+        "subtopic": "Languages",
+        "content": "Focus on listening, speaking, reading, writing (LSRW). Example: Role play for speaking skills."
+      },
+      {
+        "subtopic": "Mathematics",
+        "content": "Conceptual understanding, problem-solving, real-life application. Example: Teaching algebra through puzzles."
+      },
+      {
+        "subtopic": "Science",
+        "content": "Inquiry-based learning, lab experiments, scientific attitude. Example: Demonstrating Newton’s law using a balloon rocket."
+      },
+      {
+        "subtopic": "Social Science",
+        "content": "Connecting past with present, map work, case studies. Example: Explaining democracy through classroom elections."
+      },
+      {
+        "subtopic": "Commerce & Humanities",
+        "content": "Case-based teaching, discussion, real-world examples. Example: Teaching demand-supply using market surveys."
+      },
+      {
+        "subtopic": "NCERT Alignment",
+        "content": "Curriculum and pedagogy aligned with NCERT standards for uniformity."
+      }
+    ]
+  },
+  {
+    "topic": "6. School Organization & Leadership (All Levels)",
+    "subtopics": [
+      {
+        "subtopic": "Educational Institutions",
+        "content": "CRC (Cluster Resource Centre), BRC (Block Resource Centre), DIET (District Institute of Education & Training), SCERT, NCERT—roles in teacher training and curriculum development."
+      },
+      {
+        "subtopic": "School Culture",
+        "content": "Values, traditions, discipline, cooperation in school environment."
+      },
+      {
+        "subtopic": "Classroom Climate",
+        "content": "Healthy teacher-student relationship, mutual respect, encouragement."
+      },
+      {
+        "subtopic": "Professional Development",
+        "content": "Workshops, training programs, self-study for teachers to improve teaching skills."
+      },
+      {
+        "subtopic": "Co-Curricular Activities",
+        "content": "Sports, debates, arts, and cultural activities that support holistic development."
+      },
+      {
+        "subtopic": "Administration & Management",
+        "content": "Timetable preparation, resource management, leadership qualities in principals and teachers."
+      }
+    ]
+  },
+  {
+    "topic": "7. Policy & Curriculum Frameworks (All Levels)",
+    "subtopics": [
+      {
+        "subtopic": "National Curriculum Framework (NCF 2005)",
+        "content": "Focuses on constructivist learning, activity-based approach, connecting knowledge with life outside school."
+      },
+      {
+        "subtopic": "Bihar Curriculum Framework (2008)",
+        "content": "Localized curriculum with focus on Bihar’s history, culture, and environment."
+      },
+      {
+        "subtopic": "Right to Education (RTE)",
+        "content": "Provides free and compulsory education for children 6–14 years. Emphasizes inclusive education."
+      },
+      {
+        "subtopic": "National Education Policy (NEP 2020)",
+        "content": "Introduced new 5+3+3+4 structure, focus on skill development, digital learning, and mother-tongue-based early education."
+      },
+      {
+        "subtopic": "Child-Centered Pedagogy",
+        "content": "Emphasizes activity-based, discovery learning tailored to children’s needs and interests."
+      }
+    ]
+  },
+  {
+    "topic": "8. Educational Psychology (All Levels)",
+    "subtopics": [
+      {
+        "subtopic": "Learning Process",
+        "content": "Attention, perception, memory, thinking, problem-solving. Example: Mnemonics used to improve recall."
+      },
+      {
+        "subtopic": "Individual Differences",
+        "content": "Variation in learners due to intelligence, aptitude, interest, learning styles."
+      },
+      {
+        "subtopic": "Forgetting",
+        "content": "Causes: disuse, interference, lack of practice. Example: Forgetting a formula without revision."
+      }
+    ]
+  },
+  {
+    "topic": "9. Motivation & Learning Theories (All Levels)",
+    "subtopics": [
+      {
+        "subtopic": "Maslow’s Hierarchy of Needs",
+        "content": "Physiological, safety, love/belonging, esteem, self-actualization. Example: A hungry child cannot focus on studies."
+      },
+      {
+        "subtopic": "Thorndike’s Trial and Error",
+        "content": "Learning by repeated attempts until success. Example: A child learns to solve puzzles through trial and error."
+      },
+      {
+        "subtopic": "Pavlov’s Classical Conditioning",
+        "content": "Associating stimulus with response. Example: Bell sound associated with food makes dog salivate."
+      },
+      {
+        "subtopic": "Skinner’s Operant Conditioning",
+        "content": "Learning through reinforcement and punishment. Example: Rewarding correct answers increases performance."
+      }
+    ]
+  },
+  {
+    "topic": "10. Guidance & Counselling (All Levels)",
+    "subtopics": [
+      {
+        "subtopic": "Need of Guidance",
+        "content": "Helps learners in academic, personal, social, and career-related decisions."
+      },
+      {
+        "subtopic": "Types of Guidance",
+        "content": "Educational, vocational, personal-social guidance."
+      },
+      {
+        "subtopic": "Role of Teacher in Counselling",
+        "content": "Identifying learner problems, providing support, referring to experts if needed."
+      }
+    ]
+  },
+  {
+    "topic": "11. Classroom Management (All Levels)",
+    "subtopics": [
+      {
+        "subtopic": "Discipline",
+        "content": "Maintaining order for effective teaching. Example: Establishing classroom rules."
+      },
+      {
+        "subtopic": "Time Management",
+        "content": "Proper use of time to balance teaching, activities, and assessment."
+      },
+      {
+        "subtopic": "Teacher’s Role",
+        "content": "Creating a positive learning environment, conflict resolution, motivating students."
+      }
+    ]
+  },
+  {
+    "topic": "12. Educational Technology (All Levels)",
+    "subtopics": [
+      {
+        "subtopic": "Concept of Educational Technology",
+        "content": "Educational Technology refers to the systematic application of science and technology to improve the process of teaching and learning. Example: Use of smart boards, e-learning platforms."
+      },
+      {
+        "subtopic": "Types of Educational Technology",
+        "content": "1. Hardware Technology (projectors, smart boards, radio, TV). 2. Software Technology (educational apps, LMS). 3. Communication Technology (internet, video conferencing)."
+      },
+      {
+        "subtopic": "Computer Assisted Instruction (CAI)",
+        "content": "Teaching through computers using tutorials, drill-and-practice, simulations, and games. Example: Using Khan Academy for mathematics practice."
+      },
+      {
+        "subtopic": "ICT in Education",
+        "content": "Integration of Information and Communication Technology in teaching—digital classrooms, online learning, e-content, MOOCs, virtual labs."
+      },
+      {
+        "subtopic": "Audio-Visual Aids",
+        "content": "Tools that use hearing and sight for better learning—charts, maps, models, videos, animations. Example: Showing animated videos to explain solar system."
+      },
+      {
+        "subtopic": "E-Learning & Online Education",
+        "content": "Learning through internet platforms—Google Classroom, Zoom, SWAYAM, DIKSHA portal. Promotes flexibility, self-paced learning."
+      },
+      {
+        "subtopic": "Smart Classroom",
+        "content": "Technology-enabled classroom with interactive boards, projectors, and digital content to make learning engaging."
+      },
+      {
+        "subtopic": "Open and Distance Learning (ODL)",
+        "content": "Education provided remotely using technology. Example: IGNOU and NIOS courses using study materials, broadcasts, and online content."
+      },
+      {
+        "subtopic": "Blended Learning",
+        "content": "Combination of online learning and face-to-face classroom teaching. Example: Flipped classroom approach where lectures are watched online at home and practice is done in class."
+      },
+      {
+        "subtopic": "Advantages of Educational Technology",
+        "content": "Personalized learning, accessibility for disabled learners, wider reach, interactive and engaging teaching methods."
+      },
+      {
+        "subtopic": "Challenges of Educational Technology",
+        "content": "Digital divide, lack of infrastructure, teacher training issues, over-dependence on technology."
       }
     ]
   }
